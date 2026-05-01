@@ -8,4 +8,4 @@ Name: Rakibul Islam
 - Calculator functions
 - Error handling
 
-This project demonstrates Git and GitHub workflow including branching, merging, and commits.
+This project demonstrates Git and GitHub workflow including branching, merging, and commits and calculator functionalities.
